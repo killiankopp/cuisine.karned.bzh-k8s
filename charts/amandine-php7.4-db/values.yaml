@@ -1,11 +1,11 @@
-NameSpace: mycloud
+NameSpace: killian
 AppName: amandine-php74-db
 NodePort: 32101
 
 MariadbReplicas: 1
 MariadbImageTag: latest
-MariadbDiskSize: 3Gi
+MariadbDiskSize: 1Gi
 MariadbServerId: 2
-MariadbDbName: mydatabase
-MariadbDbUser: username
+MariadbDbName: DB_75j4na2lk
+MariadbDbUser: 75j4na2lk
 MariadbDbPort: 3306
