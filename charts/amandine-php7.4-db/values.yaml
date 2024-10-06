@@ -1,6 +1,6 @@
 NameSpace: killian
 AppName: amandine-php74-db
-NodePort: 32101
+NodePort: 32102
 
 MariadbReplicas: 1
 MariadbImageTag: latest
