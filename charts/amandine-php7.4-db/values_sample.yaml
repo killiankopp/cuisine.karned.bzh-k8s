@@ -1,0 +1,11 @@
+NameSpace: mycloud
+AppName: amandine-php74-db
+NodePort: 32101
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 3Gi
+MariadbServerId: 2
+MariadbDbName: mydatabase
+MariadbDbUser: username
+MariadbDbPort: 3306
